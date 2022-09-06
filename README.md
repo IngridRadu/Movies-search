@@ -5,7 +5,7 @@ A React application where users can search for a movie.
 https://github.com/IngridRadu/Movies-search.git
 
 ## Install
-npm intall
+npm install
 
 ### Run
 npm run
