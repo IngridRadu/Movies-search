@@ -5,7 +5,10 @@ A React application where users can search for a movie.
 https://github.com/IngridRadu/Movies-search.git
 
 ## Install
-npm start
+npm intall
+
+### Run
+npm run
 
 ## Quick Look
 App component
